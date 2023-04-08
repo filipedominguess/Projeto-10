@@ -1,5 +1,5 @@
 <body>
-	<h1>Projeto de protótipo de modelo de aprendizado de máquina para prever a quantidade de ouro extraído do minério</h1>
+	<h1>Projeto de Protótipo de Modelo de Aprendizado de Máquina para Prever a Quantidade de Ouro Extraído do Minério</h1>
 	<h2>Objetivo:</h2>
 	<p>Desenvolver um protótipo de modelo de aprendizado de máquina para prever a quantidade de ouro puro extraído do minério de ouro.</p>
 	<h2>Benefícios:</h2>
